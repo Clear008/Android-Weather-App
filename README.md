@@ -25,9 +25,9 @@ Elle utilise l'API REST de [OpenWeatherMap](https://openweathermap.org/api) et l
 
 ## 📷 Capture d’écran
 
-<img src="app/src/Capture/Capture1.png" alt="Aperçu du Chat" width="400" />
-
-<img src="app/src/Capture/Capture1.png" alt="Aperçu du Chat" width="400" />
+<img src="app/src/Capture/Capture1.png" alt="Aperçu du Chat" width="200" />
+---
+<img src="app/src/Capture/Capture2.png" alt="Aperçu du Chat" width="200" />
 
 
 ## 🔧 Installation
